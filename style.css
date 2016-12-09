@@ -1,0 +1,12 @@
+body{
+  background-color: SlateGray;
+}
+
+*{
+  color: Azure;
+  font-family: Arial, sans-serif;
+}
+
+h1{
+  text-align: center;
+}
